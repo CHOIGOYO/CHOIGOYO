@@ -50,7 +50,7 @@ nice to meet you! 🖐
      <div>😎ME</div>
     <a href ="https://velog.io/@choigoyo_o/series"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
     <a href ="https://www.instagram.com/choigoyo_o/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
-    <a href ="matilto:choigoyo.q7@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+    <a href="mailto:choigoyo.q7@gmail.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
   </div><br/>
 </div> <br/>
 
