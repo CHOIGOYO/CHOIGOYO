@@ -44,7 +44,7 @@ nice to meet you! 🖐
     <img src="https://img.shields.io/badge/intellij idea-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
     <img src="https://img.shields.io/badge/visual studio code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
     <img src="https://img.shields.io/badge/eclipse ide-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring Tool Suite-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
   </div><br/>
     <div>
      <div>😎ME</div>
