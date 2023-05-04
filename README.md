@@ -27,7 +27,6 @@ nice to meet you! 🖐
         <img src="https://img.shields.io/badge/spring security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
         <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
         <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
-        
         <img src="https://img.shields.io/badge/JPA-F8DC75?style=flat-square&logo=&logoColor=white"/>
   </div> <br/>
   <div>
