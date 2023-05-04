@@ -19,7 +19,6 @@ nice to meet you! 🖐
     <img src="https://img.shields.io/badge/CSS3-orange?style=flat-square&logo=css3&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white"/>
     <img src="https://img.shields.io/badge/JAVA-BE312E?style=flat-square&logo=Java&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JSP-5F259F?style=flat-square&logo=java&logoColor=white"/>
   </div> <br/>
   <div>
     Framework / Library : 
@@ -28,7 +27,7 @@ nice to meet you! 🖐
         <img src="https://img.shields.io/badge/spring security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
         <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
         <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MyBatis-FF5C83?style=flat-square&logo=&logoColor=white"/>
+        
         <img src="https://img.shields.io/badge/JPA-F8DC75?style=flat-square&logo=&logoColor=white"/>
   </div> <br/>
   <div>
