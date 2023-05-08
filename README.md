@@ -53,6 +53,5 @@ nice to meet you! 🖐
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choigoyo&show_icons=true&theme=Gradient) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choigoyo&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=choigoyo_o)](https://github.com/choigoyo_o/velog-readme-stats](https://velog.io/@choigoyo_o/series)
 
 
