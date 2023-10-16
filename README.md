@@ -18,8 +18,8 @@ nice to meet you! 🖐
     <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS3-orange?style=flat-square&logo=css3&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JAVA-BE312E?style=flat-square&logo=Java&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Dart-BE312E?style=flat-square&logo=Dart&logoColor=blue"/>
+    <img src="https://img.shields.io/badge/Java-BE312E?style=flat-square&logo=JAVA&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Dart-2e73be?style=flat-square&logo=Dart&logoColor=white"/>
   </div> <br/>
   <div>
     Framework / Library : 
@@ -29,6 +29,7 @@ nice to meet you! 🖐
         <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
         <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
         <img src="https://img.shields.io/badge/JPA-F8DC75?style=flat-square&logo=&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Flutter-2e73be?style=flat-square&logo=Flutter&logoColor=white"/>
   </div> <br/>
   <div>
     Server :
