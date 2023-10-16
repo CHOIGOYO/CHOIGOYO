@@ -19,6 +19,7 @@ nice to meet you! 🖐
     <img src="https://img.shields.io/badge/CSS3-orange?style=flat-square&logo=css3&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white"/>
     <img src="https://img.shields.io/badge/JAVA-BE312E?style=flat-square&logo=Java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Dart-BE312E?style=flat-square&logo=Dart&logoColor=blue"/>
   </div> <br/>
   <div>
     Framework / Library : 
