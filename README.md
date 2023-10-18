@@ -14,36 +14,30 @@ nice to meet you! 🖐
     🛠 Skill Set 🛠
   </div> <br/>
   <div>
-    Programing Languages : 
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CSS3-orange?style=flat-square&logo=css3&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white"/>
     <img src="https://img.shields.io/badge/Java-BE312E?style=flat-square&logo=JAVA&logoColor=white"/>
     <img src="https://img.shields.io/badge/Dart-2e73be?style=flat-square&logo=Dart&logoColor=white"/>
   </div> <br/>
   <div>
-    Framework / Library : 
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
         <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
         <img src="https://img.shields.io/badge/spring security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
         <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
-        <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
         <img src="https://img.shields.io/badge/JPA-F8DC75?style=flat-square&logo=&logoColor=white"/>
     <img src="https://img.shields.io/badge/Flutter-2e73be?style=flat-square&logo=Flutter&logoColor=white"/>
   </div> <br/>
   <div>
-    Server :
     <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
     <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black"/>
   </div>
 
   <div>
-    available program :
     <img src="https://img.shields.io/badge/intellij idea-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
     <img src="https://img.shields.io/badge/visual studio code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
     <img src="https://img.shields.io/badge/eclipse ide-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring Tool Suite-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=Git&logoColor=white"/>
   </div><br/>
     <div>
      <div>😎ME</div>
