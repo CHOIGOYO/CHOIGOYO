@@ -7,7 +7,7 @@
   
   <h4>
 
-Hello! I'm CHOIGOYO, a skilled web backend and Flutter app developer 🖐
+Hello! I'm CHOIGOYO, a Flutter app developer 🖐
   
 </h4>
   <div>
@@ -18,19 +18,19 @@ Hello! I'm CHOIGOYO, a skilled web backend and Flutter app developer 🖐
     <img src="https://img.shields.io/badge/Java-BE312E?style=flat-square&logo=JAVA&logoColor=white"/>
     <img src="https://img.shields.io/badge/Dart-2e73be?style=flat-square&logo=Dart&logoColor=white"/>
   </div> <br/>
-  <div>
+<!--   <div>
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
         <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
         <img src="https://img.shields.io/badge/spring security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
         <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
         <img src="https://img.shields.io/badge/JPA-F8DC75?style=flat-square&logo=&logoColor=white"/>
     <img src="https://img.shields.io/badge/Flutter-2e73be?style=flat-square&logo=Flutter&logoColor=white"/>
-  </div> <br/>
-  <div>
+  </div> <br/> -->
+<!--   <div>
     <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
     <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black"/>
-  </div>
+  </div> -->
 
   <div>
     <img src="https://img.shields.io/badge/intellij idea-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
