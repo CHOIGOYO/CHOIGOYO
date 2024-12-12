@@ -14,9 +14,10 @@ Hello! I'm CHOIGOYO, a Flutter app developer 🖐
     🛠 Skill Set 🛠
   </div> <br/>
   <div>
+    <img src="https://img.shields.io/badge/TypeScript-2e73be?style=flat-square&logo=Dart&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white"/>
     <img src="https://img.shields.io/badge/Java-BE312E?style=flat-square&logo=JAVA&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Dart-2e73be?style=flat-square&logo=Dart&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Dart-75A5DE?style=flat-square&logo=Dart&logoColor=white"/>
   </div> <br/>
 <!--   <div>
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
