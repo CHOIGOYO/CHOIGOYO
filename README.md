@@ -7,7 +7,7 @@
   
   <h4>
 
-Hello! I'm CHOIGOYO, a Flutter app developer 🖐
+Hello! I'm CHOIGOYO, a front-end developer. 🖐
   
 </h4>
   <div>
