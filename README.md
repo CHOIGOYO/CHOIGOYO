@@ -31,14 +31,6 @@ Hello! I'm CHOIGOYO, a Flutter app developer 🖐
     <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black"/>
   </div> -->
-
-  <div>
-    <img src="https://img.shields.io/badge/intellij idea-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
-    <img src="https://img.shields.io/badge/visual studio code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-    <img src="https://img.shields.io/badge/eclipse ide-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Spring Tool Suite-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=Git&logoColor=white"/>
-  </div><br/>
     <div>
      <div>
     <a href ="https://velog.io/@choigoyo_o/series"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
